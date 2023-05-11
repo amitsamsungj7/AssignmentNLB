@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tPQc+kWNHX6u4QoHX6gmwHeQnUbSZ+UItI1lqwtPPUOLTiEk/4QJE4/itxnar1L9ZERInPFD+12GzpppUVYZUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AMIT KUMAR\\source\\repos\\AssignmentsWebAPI_NLB\\AssignmentsWebAPI_NLB\\AssignmentsWebAPI_NLB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AMIT KUMAR\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
